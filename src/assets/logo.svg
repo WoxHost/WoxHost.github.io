@@ -1,0 +1,18 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:hsl(217, 91%, 60%);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:hsl(262, 83%, 58%);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Outer hexagon -->
+  <path d="M20 2L35 11V29L20 38L5 29V11L20 2Z" stroke="url(#logoGradient)" stroke-width="2" fill="none"/>
+  
+  <!-- Inner code brackets -->
+  <path d="M14 15L10 20L14 25" stroke="url(#logoGradient)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M26 15L30 20L26 25" stroke="url(#logoGradient)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Center slash -->
+  <path d="M22 13L18 27" stroke="url(#logoGradient)" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
