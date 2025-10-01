@@ -23,7 +23,7 @@ const Footer = () => {
           {/* Company Info */}
           <div className="space-y-4">
             <Link to="/" className="flex items-center space-x-2 hover:opacity-80 transition-opacity">
-              <img src="/src/assets/logo.svg" alt="云码科技" className="h-8 w-8" />
+              <img src="/favicon.svg" alt="云码科技" className="h-8 w-8" />
               <span className="text-lg font-bold">云码科技</span>
             </Link>
             <p className="text-sm text-muted-foreground">
